@@ -29,9 +29,6 @@ Play the game on itch.io:
 
 https://nafu178.itch.io/heritage-quest
 
-## Screenshots
-_Add your game screenshots here_
-
 ## Developer
 Created by Nafu178.
 
